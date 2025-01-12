@@ -1,0 +1,24 @@
+Processing DOCX: ./resume_parser/dhruv.docx
+File: dhruv.docx
+Predicted Job Title: Advocate
+Skills: 
+Education: 
+
+Processing PDF: ./resume_parser/dhruv.pdf
+File: dhruv.pdf
+Predicted Job Title: Advocate
+Skills: 
+Education: 
+
+Processing PDF: ./resume_parser/pachrangi resume.pdf
+File: pachrangi resume.pdf
+Predicted Job Title: Advocate
+Skills: 
+Education: 
+
+Processing PDF: ./resume_parser/RESUME.pdf
+File: RESUME.pdf
+Predicted Job Title: Advocate
+Skills: 
+Education: 
+
